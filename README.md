@@ -1,4 +1,4 @@
-# A demonstration of Composite Design Pattern
+# A demonstration of Facade Design Pattern
 
 # Course Title : Object Oriented Design and Design Patterns Lab(CSE 4122)
 ## Author
@@ -28,7 +28,7 @@ The Facade pattern is a structural design pattern that provides a simplified int
 ```
 
 
-## Composite Pattern Demo Program
+## Facade Pattern Demo Program
 ```java
 // Creating My Bank Account, Deposit 5000, Withdraw 1400
 BankService myBankService = new BankService();
